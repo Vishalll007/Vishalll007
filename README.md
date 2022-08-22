@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishalll007
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning full stack java development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Some Projects
 - 📫 How to reach me vishalpotdar140@gmail.com
 
 <!---
